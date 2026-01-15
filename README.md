@@ -3,7 +3,7 @@
 This repository is a **data release**: it contains the raw `inspect-ai` / Petri-style `.eval` logs for the Swiss replication of a source-attribution-bias/coherence-bias study originally run with German political sources. The Swiss replication keeps the **seed structure and evaluation format** constant while substituting **Swiss political and institutional equivalents**. 
 
 ## Research question (Swiss replication)
-Does the source attribution bias effect observed in the German parent study replicate when using Swiss political sources? :contentReference[oaicite:2]{index=2}
+Does the source attribution bias effect observed in the German parent study replicate when using Swiss political sources? [:contentReference[oaicite:2]{index=2}](https://github.com/MicheleLoi/source-attribution-bias-data)
 
 ## What’s in this repo
 - `logs/` — five raw `.eval` files (the Swiss replication Petri runs listed in the lab book). 
